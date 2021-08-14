@@ -1,0 +1,9 @@
+{
+  "name": "env.h",
+  "version": "0.1.0",
+  "repo": "4thel00z/env.h",
+  "description": "A simple getenv wrapper with defaults",
+  "keywords": ["env"],
+  "license": "GPL-3",
+  "src": ["env.h"]
+}
