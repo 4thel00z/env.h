@@ -4,6 +4,12 @@
 
 Utilities to nicely interact with the environment variables.
 
+## Installation
+
+```
+clib install 4thel00z/env.h
+```
+
 ## Usage
 
 ```
